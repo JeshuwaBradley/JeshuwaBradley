@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me jeshuwabradley"gmail.com
 
-<a href='https://portfolio-bradley.herokuapp.com/'>Personal Website</a>
+- 🌐<a href='https://portfolio-bradley.herokuapp.com/'>Personal Website</a>
 
 <!---
 JeshuwaBradley/JeshuwaBradley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
