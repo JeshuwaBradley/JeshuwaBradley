@@ -2,12 +2,15 @@
 <hr />
 <h3>About Me</h3>
 
+  <img src='https://camo.githubusercontent.com/6510c79f86cdd5e32cf6c5b009548bf09c137f06cffe87acbf41e68cbf0402c1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57465a7642375649584267697a336f4458452f67697068792e676966' width='100' height='100'  alt='coding' />
+  
 - 👋 Hi, I’m @JeshuwaBradley
 - 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: <a href='mailto:jeshuwabradley@gmail.com'>jeshuwabradley@gmail.com</a>
 
 - 🌐<a href='https://portfolio-bradley.herokuapp.com/'>Personal Website</a>
+<br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeshuwaBradley)](https://github.com/anuraghazra/github-readme-stats)
 
