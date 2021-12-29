@@ -1,7 +1,10 @@
+<h3>Hi there, I'm Bradley</h3>
+<hr />
+
 - 👋 Hi, I’m @JeshuwaBradley
 - 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me jeshuwabradley"gmail.com
+- 📫 How to reach me <a href='mailto:jeshuwabradley@gmail.com'>jeshuwabradley@gmail.com</a>
 
 - 🌐<a href='https://portfolio-bradley.herokuapp.com/'>Personal Website</a>
 
