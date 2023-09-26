@@ -9,7 +9,6 @@
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: <a href='mailto:jeshuwabradley@gmail.com'>jeshuwabradley@gmail.com</a>
 
-- 🌐<a href='https://portfolio-bradley.herokuapp.com/'>Personal Website</a>
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeshuwaBradley)](https://github.com/anuraghazra/github-readme-stats)
